@@ -2,7 +2,7 @@
 
 The goal is to review code written by a fictional intern. Let's pretend that the intern without prior experience was supposed to work on a task with a senior engineer, however our engineer got sick with Dragon Pox. The intern prepared some code within a couple of days on his own which and thinks it satisfies the requirements.
 
-Do a formal code review and suggest improvements (if any) by opening a completely new PR, you may use [this quick link](https://github.com/prokopst/BackendTaskPilot/compare/task?expand=1) to create it. See an existing [PR](https://github.com/prokopst/BackendTaskPilot/pulls/1) with example comments just to get the idea if you are not familiar with GitHub PRs.
+Do a formal code review and suggest improvements (if any) by opening a completely new PR, you may use [this quick link](https://github.com/prokopst/BackendTaskPilot/compare/task?expand=1) to create it. See an existing [PR](https://github.com/prokopst/BackendTaskPilot/pull/1) with example comments just to get the idea if you are not familiar with GitHub PRs.
 
 The goal is to make sure that the service is production ready and that the intern will learn from their mistakes. Each topic you raise should be a separate comment, either to a specific line or a general PR comment.
 
